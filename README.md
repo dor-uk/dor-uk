@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dor-uk
 - 👀 I’m interested in developing new things and obtaining new skills.
-- 🌱 I’m currently learning how to become a qualified developer.
+- 🌱 I’m currently working on a project with my friend yuenby: https://github.com/yuenby/Test.git
 - 📫 How to reach me: dorukberke23@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
